@@ -1,0 +1,4 @@
+﻿Hello đây là phần README.md của web
+#ASP.NET CORE 3.1 FROM TEDU 
+## TECHNOLOGY
+###HOW TO CONFIRGUE AND RUN 
